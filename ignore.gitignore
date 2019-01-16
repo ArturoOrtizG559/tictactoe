@@ -1,0 +1,6 @@
+freeglut/*
+glutapp.xcodeproj/*
+visualc15/*
+*.d
+*.o
+*.exe
